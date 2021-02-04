@@ -2,9 +2,8 @@
 /**
  * Base_Memcache实现
  * @subpackage  controllers
- * @author      邵鹏伟 <shaopengwei@baidu.com>
+ * @author      邵鹏伟 <shaopengwei@hotmail.com>
  * @version     2020/9/30 4:57 下午
- * @copyright   Copyright (c) 2019 Baidu.com, Inc. All Rights Reserved
  */
 
 class Base_Memcache{

@@ -2,9 +2,8 @@
 /**
  * Base_DB实现 (单例模式 singleton pattern)
  * @subpackage  controllers
- * @author      邵鹏伟 <shaopengwei@baidu.com>
+ * @author      邵鹏伟 <shaopengwei@hotmail.com>
  * @version     2021/2/3 5:19 下午
- * @copyright   Copyright (c) 2019 Baidu.com, Inc. All Rights Reserved
  */
 
 /**
